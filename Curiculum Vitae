@@ -1,0 +1,159 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Ardhya Dwi CV</title>
+<style type="text/css">
+.header {
+	font-family: Times New Roman, Times, serif;
+}
+</style>
+</head>
+
+<body>
+<table width="80%" border="0" align="center">
+<?php
+echo "
+  <tr>
+    <td ><h1><strong>Curiculum Vitae </strong></h1></td>
+  </tr>
+  <tr>
+    <td ><strong>Data Pribadi</strong></td>
+  </tr>
+  <tr>
+    <td ><ul>
+      <li>Nama</li>
+    </ul></td>
+    <td > : Ardhya Dwi Nor Setyawan</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Tempat &amp; tanggal lahir</li>
+    </ul></td>
+    <td>: Malang, 19 Juni 1993</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Jenis Kelamin </li>
+    </ul></td>
+    <td>: Laki - laki</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Agama</li>
+    </ul></td>
+    <td>: Islam</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Status</li>
+    </ul></td>
+    <td>: Belum Menikah</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Kewarganegaraan</li>
+    </ul></td>
+    <td>: Indonesia</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Alamat Rumah </li>
+    </ul></td>
+    <td>: Jl Sendang Kamal 86 Kraton Maospati Magetan</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Alamat Kos </li>
+    </ul></td>
+    <td>: Jl Tanuragan 2 Gonilan Kartasura (Kost Nevada)</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>E-Mail </li>
+    </ul></td>
+    <td>: ardhyadwi919@gmail.com</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Ponsel</li>
+    </ul></td>
+    <td>: 085736982359</td>
+  </tr>
+  <tr>
+    <td><strong>Pendidikan Formal</strong></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>2000-2006</li>
+    </ul></td>
+    <td>SDN Kraton 6</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>2006-2009</li>
+    </ul></td>
+    <td>SMP Negeri 1 Maospati</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>2009-2012</li>
+    </ul></td>
+    <td>SMA Negeri 1 Maospati</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>2014-Sekarang</li>
+    </ul></td>
+    <td>Universtias Muhammadiyah Surakarta (Jurusan Teknik Informatika)</td>
+  </tr>
+  <tr>
+    <td><strong>Pengalaman Organisasi</strong></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>SMP</li>
+    </ul></td>
+    <td>Pramuka</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>SMA</li>
+    </ul></td>
+    <td>Rohis SMA Negeri 1 Maospati</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Perguruan Tinggi</li>
+    </ul></td>
+    <td>HIMATIF (Himpunan Mahasisa Teknik Informatika),FOSTI (Forum Open Source Teknik Informatika)</td>
+  </tr>
+  <tr>
+    <td><strong>Pendidikan Non Formal</strong></td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><ul>
+      <li>Kursus</li>
+    </ul></td>
+    <td>Bahasa Inggris (Smart English Course Pare Kediri)</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+  ";
+  ?>
+</table>
+</body>
+</html>
